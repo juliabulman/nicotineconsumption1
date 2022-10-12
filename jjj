@@ -1,0 +1,48 @@
+<html>
+<head>
+<title> BE HAPPY:) </title>
+</head>
+<body>
+<h1>JULIA BULMAN</h1>
+<p> </p>
+</body>
+</html>
+<!DOCTYPE html>
+<a href="https://www.nimh.nih.gov/health/find-help">For Further Assistance</a>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2> NICOTINE CONSUMPTION </h2>
+<p>Advertising Campaign for Mobile Application: be happy.</p>
+
+<div class="row">
+  <div class="column">
+    <img src="infodesign_juliabulman.jpg" alt="breathe" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="behappyfinal1-01.jpg" alt="Snow" style="width:100%">
+  </div>
+</body>
+</html>
+<html>
+<body>
